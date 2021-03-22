@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Alejandro Torres a Junior software Engineer amd I am currently located in Mexico City
+- 👀 I’m interested in working myself up to becoming a full stack devolper 
+- 🌱 I’m currently learning backend with Python and frontend with React 
+- 💞️ I’m looking to collaborate on all types of projects where I can keep learnig and showing the best of me 
+- 📫 How to reach me: 
+      - Email: torresalexatlanta@gmail.com
+      - Phone Number: 5611304460 
+      - LinkedIn: https://www.linkedin.com/in/alejandro-torres-3ba72a179/
