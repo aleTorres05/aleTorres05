@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on all types of projects where I can keep learnig and showing the best of me 
 - 📫 How to reach me: 
       - Email: torresalexatlanta@gmail.com
-      - Phone Number: 5611304460 
+      - Location: Mexico City 
       - LinkedIn: https://www.linkedin.com/in/alejandro-torres-3ba72a179/
